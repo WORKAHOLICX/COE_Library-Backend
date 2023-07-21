@@ -1,6 +1,6 @@
 const allowedOrigin = [
-    'http://localhost:3000',
-    "https://thvirtuallibrarycoe.netlify.app"
-]
+  "http://localhost:3000",
+  "https://course-repo.netlify.app/",
+];
 
-module.exports = allowedOrigin
+module.exports = allowedOrigin;
